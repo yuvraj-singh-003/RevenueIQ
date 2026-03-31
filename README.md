@@ -1,4 +1,6 @@
 
+RevenueIQ is a web-based customer revenue analytics dashboard that tracks key metrics and uses Gemini API integration to enable AI-driven insights through a chatbot interface.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
